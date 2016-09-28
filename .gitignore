@@ -1,0 +1,6 @@
+.DS_Store
+.tmp
+node_modules
+assets/css/icons-sprite.less
+assets/img/sprites
+*.log

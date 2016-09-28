@@ -1,0 +1,17 @@
+[
+    {
+        "userName": "Aung",
+        "endpoint": "https://android.googleapis.com/gcm/send/ekUevHnaIZ4:APA91bElihDUpza2Z9aVfSisgh4y5kynbMsLLND6m2sbBAkpz4OWx27yWVod9Ze8TEdPHVOZIZ2uXXRNDxACq5P-TMtTWQwBkYomaeBL5hNaUrWwbwYwd2q5KB9JeSnkfmYHyvAAvogz",
+        "regid": "ekUevHnaIZ4:APA91bElihDUpza2Z9aVfSisgh4y5kynbMsLLND6m2sbBAkpz4OWx27yWVod9Ze8TEdPHVOZIZ2uXXRNDxACq5P-TMtTWQwBkYomaeBL5hNaUrWwbwYwd2q5KB9JeSnkfmYHyvAAvogz"
+    },
+    {
+        "userName": "Thet",
+        "endpoint": "https://android.googleapis.com/gcm/send/fMs_NLVf2tE:APA91bFz95qb2WZ9VKXEhKZdwJ02B3x2xj_Pm8tybWziFsMsrHNu3V1IjUELB0Cp3SyIYxawXqxf1d7M_QqByCkpPCPr7z2J4EAWJZEyTnL_K86AeVSxJJPYbVT8QSkwGrgnVMrLRmjp",
+        "regid": "fMs_NLVf2tE:APA91bFz95qb2WZ9VKXEhKZdwJ02B3x2xj_Pm8tybWziFsMsrHNu3V1IjUELB0Cp3SyIYxawXqxf1d7M_QqByCkpPCPr7z2J4EAWJZEyTnL_K86AeVSxJJPYbVT8QSkwGrgnVMrLRmjp"
+    },
+    {
+        "userName": "ebata",
+        "endpoint": "https://android.googleapis.com/gcm/send/emjgRAoZNsE:APA91bG3ofJV3KPh-jUQUW3cECZFukV7hdds1PxmvkeJPj6cjEHpKtrgQD0yLJn8fT2e4dQUxgWo3hUN7KB16iVWSL9AJDTXGs63bob1SCPX3CwPTx2ivN9mVw__iNkLFfgDH1PjF3wd",
+        "regid": "emjgRAoZNsE:APA91bG3ofJV3KPh-jUQUW3cECZFukV7hdds1PxmvkeJPj6cjEHpKtrgQD0yLJn8fT2e4dQUxgWo3hUN7KB16iVWSL9AJDTXGs63bob1SCPX3CwPTx2ivN9mVw__iNkLFfgDH1PjF3wd"
+    }
+]
